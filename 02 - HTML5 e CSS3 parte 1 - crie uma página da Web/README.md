@@ -1,10 +1,8 @@
-# Criando uma página web com HTML5 e CSS3
+# Barbearia Alura
 
 ![preview](./.github/preview.png)
 
-Projeto construído no evento Maratona Explorer 3.0 da Rocketseat.
-
-[🔗 Clique aqui para acessar](https://kennylima.github.io/Maratona_explorer_RocketSeat/)
+Projeto construído através dos cursos HTML5 e CSS3 da Alura, onde foi possível aprender e revisar diversos temas de HTML e CSS.
 
 ## 🛠 Tecnologias 
 - HTML
